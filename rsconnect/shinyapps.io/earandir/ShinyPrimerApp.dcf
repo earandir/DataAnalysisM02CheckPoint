@@ -1,0 +1,13 @@
+name: ShinyPrimerApp
+title: ShinyPrimerApp
+username:
+account: earandir
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4241347
+bundleId: 4712062
+url: https://earandir.shinyapps.io/ShinyPrimerApp/
+when: 1623614323.27665
+lastSyncTime: 1623614323.27665
+asMultiple: FALSE
+asStatic: FALSE
